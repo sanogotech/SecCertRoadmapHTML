@@ -8,6 +8,8 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 ## TOP des Certifications
 ** Commencer par les Lab educatifs **: TryHackMe ou HackTheBox
 
+* https://youtu.be/jfJqRHtXQxg?si=eupwIwqUVKbiM0dw
+
 - IT et Réseaux ( Network+, CCNA, Lab TryHackMe cours)
 - Generaliste (gouvernance, risk et conformité) ( Security+ 350 euroos, SSCP)(CC de ISC2)
 - Offensive (CEH  1100 euros, Comptia Pentest+ 350 euros, Lab  TryHackMe, HackTheBox )
