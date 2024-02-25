@@ -20,3 +20,5 @@ I am open to restructing this html if a better way is known. I am a beginner at 
 - Comprendre les différents métiers en cybersecurité avec IPNET TV Mr BATANA:
   * https://youtu.be/U0BazhZwVhQ?si=2pUreHR0gjOOwFdi
 
+- Les Métiers de la cybersecurité(Manager RSSI, ,Architecte, Audit (technique pentest, audit orga),Dev Securité, Ingenier securité operationnelle) :
+  * https://youtu.be/jQ5TAtyqaPQ?si=6d-SPiMFQ9L5K-r_
